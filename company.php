@@ -41,11 +41,11 @@
                     <div class="main">
                         <nav class="indent-left">
                             <ul class="menu wrapper">
-                                <li class="active"><a href="page.html">Accueil</a></li>
-                                <li><a href="company.html">bordereau</a></li>
-                                <li><a href="projects.html">facture</a></li>
-                                <li><a href="services.html">entreprise cliente</a></li>
-                                <li><a href="index.html">deconnexion</a></li>
+                                <li class="active"><a href="page.php">Accueil</a></li>
+                                <li><a href="company.php">bordereau</a></li>
+                                <li><a href="projects.php">facture</a></li>
+                                <li><a href="services.php">entreprise cliente</a></li>
+                                <li><a href="index.php">deconnexion</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -67,8 +67,8 @@
                                    <div class="list-group">
   <a href="#" class="list-group-item disabled" style="background-color: blue; text-transform: uppercase;font-family: cursive; color: white; text-align: center;">menu
   </a>
-  <a href="company.html" class="list-group-item" style=" text-transform: uppercase;font-family: cursive; color: blue; text-align: center;"> <b>verifier le bordereau</b></a>
-  <a href="company2.html" class="list-group-item" style=" text-transform: uppercase;font-family: cursive; color: blue; text-align: center;"><b>liste des bordereaux</b></a><!-- 
+  <a href="company.php" class="list-group-item" style=" text-transform: uppercase;font-family: cursive; color: blue; text-align: center;"> <b>verifier le bordereau</b></a>
+  <a href="company2.php" class="list-group-item" style=" text-transform: uppercase;font-family: cursive; color: blue; text-align: center;"><b>liste des bordereaux</b></a><!-- 
   <a href="#" class="list-group-item" style=" text-transform: uppercase;font-family: cursive; color: blue; text-align: center;">Porta ac consectetur ac</a>
   <a href="#" class="list-group-item" style=" text-transform: uppercase;font-family: cursive; color: blue; text-align: center;">Vestibulum at eros</a> -->
 </div>

@@ -29,7 +29,7 @@
       <div class="checkbox mb-3">
         <br>
       </div>
-      <a href="page.html" class="btn btn-lg btn-primary btn-block" type="submit">Sign in</a>
+      <a href="page.php" class="btn btn-lg btn-primary btn-block" type="submit">Sign in</a>
       <p class="mt-5 mb-3 text-muted"> <b style="color: white">&copy;2020-2021</b></p>
     </form>
   </body>

@@ -41,11 +41,11 @@
                     <div class="main">
                         <nav class="indent-left">
                             <ul class="menu wrapper">
-                                <li class="active"><a href="page.html">Accueil</a></li>
-                                <li><a href="company.html">bordereau</a></li>
-                                <li><a href="projects.html">facture</a></li>
-                                <li><a href="services.html">entreprise cliente</a></li>
-                                <li><a href="index.html">deconnexion</a></li>
+                                <li class="active"><a href="page.php">Accueil</a></li>
+                                <li><a href="company.php">bordereau</a></li>
+                                <li><a href="projects.php">facture</a></li>
+                                <li><a href="services.php">entreprise cliente</a></li>
+                                <li><a href="index.php">deconnexion</a></li>
                             </ul>
                         </nav>
                     </div>
