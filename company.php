@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title></title>
+    <link rel="icon" href="img/cad1" style="width: 200%">
+
+    <title>CADERAC</title>
     <meta charset="utf-8">
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
