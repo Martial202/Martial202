@@ -44,10 +44,10 @@
                         <nav class="indent-left">
                             <ul class="menu wrapper">
                                 <li>              </li>
-                                <li class="active"><a href="page.php">Accueil</a></li>
-                                <li><a href="company.php">bordereau</a></li>
+                                <li class="active"><a href="accueil.php">Accueil</a></li>
+                                <li><a href="bordereau.php">bordereau</a></li>
                                 <li><a href="chauffeur.php">chauffeur</a></li>
-                                <li><a href="services.php">mon compte</a></li>
+                                <li><a href="compte.php">mon compte</a></li>
                                 <li><a href="../index.php">deconnexion</a></li>
                             </ul>
                         </nav>
