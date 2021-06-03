@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" href="img/cad1" style="width: 200%">
+    <link rel="icon" href="../img/cad1" style="width: 200%">
 
     <title>CADERAC</title>
     <meta charset="utf-8">

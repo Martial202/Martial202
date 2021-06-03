@@ -1,3 +1,8 @@
+<?php 
+ session_start();
+
+ ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,7 +52,7 @@
                                 <li><a href="company.php">bordereau</a></li>
                                 <li><a href="projects.php">facture</a></li>
                                 <li><a href="services.php">entreprise cliente</a></li>
-                                <li><a href="index.php">deconnexion</a></li>
+                                <li><a href="./includes/deconnexion.php">deconnexion</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -81,6 +86,8 @@
   </a>
   <a href="#" class="list-group-item" style=" text-transform: uppercase;font-family: cursive; color: blue; text-align: center; height: 350px;width: 100%"><br><br>
        
+       <h1 style="color: black"><?=$_SESSION['Enseign']?></h1>
+       <h1 style="color: black"><img src="./img/<?=$_SESSION['logo']?>"></h1>
 
   </a>
                                </div>

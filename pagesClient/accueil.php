@@ -1,7 +1,12 @@
+<?php 
+  session_start();
+
+ ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" href="img/cad1" style="width: 200%">
+    <link rel="icon" href="../img/cad1" style="width: 200%">
 
     <title>CADERAC</title>
     <meta charset="utf-8">
@@ -81,6 +86,8 @@
   </a>
   <a href="#" class="list-group-item" style=" text-transform: uppercase;font-family: cursive; color: blue; text-align: center; height: 350px;width: 100%"><br><br>
        
+       <h1 style="color: black"><?=$_SESSION['Enseign']?></h1>
+       <h1 style="color: black"><img src="../img/<?=$_SESSION['logo']?>"></h1>
 
   </a>
                                </div>
